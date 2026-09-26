@@ -1,0 +1,1241 @@
+# Copyright (C) 2026 Zeko Team
+# This file is distributed under the GNU General Public License v2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: zeko-rewards 1.1.0\n"
+"Report-Msgid-Bugs-To: https://zeko.io\n"
+"POT-Creation-Date: 2026-09-25 01:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language-Team: Zeko Team\n"
+"X-Domain: zeko-rewards\n"
+"X-Generator: zeko make-pot\n"
+
+#: templates/leaderboard.php:67
+msgid " profile photo"
+msgstr ""
+
+#. translators: 1: number of points. 2: module label
+#: includes/class-zeko-rewards-engine.php:1211
+#, php-format
+msgid "%1$d %2$s points expired"
+msgstr ""
+
+#. translators: 1: progress value. 2: required value
+#: templates/badges.php:65
+#, php-format
+msgid "%1$d / %2$d"
+msgstr ""
+
+#. translators: 1: points needed. 2: next tier label
+#: templates/dashboard.php:67
+#, php-format
+msgid "%1$d points to %2$s"
+msgstr ""
+
+#. translators: 1: bonus points. 2: streak length in days
+#: includes/class-zeko-rewards-engine.php:890
+#, php-format
+msgid "%1$d-point bonus for your %2$d-day streak!"
+msgstr ""
+
+#. translators: %1$s signed point amount, %2$s reason.
+#: includes/class-zeko-rewards-engine.php:1143
+#: includes/class-zeko-rewards-engine.php:1155
+#, php-format
+msgid "%1$s points: %2$s"
+msgstr ""
+
+#. translators: 1: criteria description. 2: criteria value
+#: includes/class-zeko-rewards-admin.php:317
+#, php-format
+msgid "%1$s: %2$d"
+msgstr ""
+
+#. translators: %d: number of badges
+#: templates/leaderboard.php:70
+#, php-format
+msgid "%d badge"
+msgid_plural "%d badges"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %d: number of events
+#: templates/history.php:67
+#, php-format
+msgid "%d event"
+msgid_plural "%d events"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %d: remaining stock
+#: templates/catalog.php:56
+#, php-format
+msgid "%d left"
+msgid_plural "%d left"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %d: number of lifetime points
+#: includes/class-zeko-rewards-admin.php:315
+#, php-format
+msgid "%d lifetime points"
+msgstr ""
+
+#. translators: %d: number of unread reward notifications
+#: includes/class-zeko-rewards-ecosystem.php:353
+#, php-format
+msgid "%d unread reward notification"
+msgid_plural "%d unread reward notifications"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of points. 2: badge name
+#: includes/class-zeko-rewards-engine.php:549
+#, php-format
+msgid "+%1$d points for the %2$s badge"
+msgstr ""
+
+#. translators: 1: number of points. 2: reward name
+#: includes/class-zeko-rewards-engine.php:1088
+#, php-format
+msgid "+%1$d points refunded for %2$s"
+msgstr ""
+
+#. translators: 1: bonus points. 2: streak length in days
+#: includes/class-zeko-rewards-engine.php:898
+#, php-format
+msgid "+%1$d points: %2$d-day streak"
+msgstr ""
+
+#. translators: 1: number of points. 2: action label
+#: includes/class-zeko-rewards-engine.php:466
+#, php-format
+msgid "+%1$d points: %2$s"
+msgstr ""
+
+#. translators: %d: number of points
+#: templates/badges.php:56
+#, php-format
+msgid "+%d bonus points"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:229
+msgid "A bonus is paid each time the streak reaches this multiple."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:265
+#: includes/privacy/class-zeko-rewards-privacy.php:144 templates/history.php:56
+#: templates/history.php:76
+msgid "Action"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:436
+#: includes/class-zeko-rewards-admin.php:529
+msgid "Actions"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:413
+#: includes/class-zeko-rewards-admin.php:456
+msgid "Active"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:368
+#: includes/class-zeko-rewards-admin.php:424
+msgid "Add reward"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:76
+#: includes/class-zeko-rewards-admin.php:77
+#: includes/class-zeko-rewards-admin.php:585
+msgid "Adjust Points"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:260
+msgid ""
+"Adjust how many points each activity awards. \"Once\" actions can only be "
+"earned once per user."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:842
+msgid "Adjustment failed."
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:298
+msgid "Admin note"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:510
+msgid "All"
+msgstr ""
+
+#: templates/history.php:31
+msgid "All actions"
+msgstr ""
+
+#: templates/history.php:21 templates/leaderboard.php:18
+msgid "All modules"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:177
+msgid "Allow users to exchange points for Zeko Pay wallet credit."
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:240
+msgid "Amount"
+msgstr ""
+
+#: zeko-rewards.php:406
+msgid "Answered a question"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:618
+msgid "Apply adjustment"
+msgstr ""
+
+#: zeko-rewards.php:400
+msgid "Asked a question"
+msgstr ""
+
+#: includes/class-zeko-rewards-ecosystem.php:391 templates/catalog.php:30
+#: templates/dashboard.php:56
+msgid "Available points"
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:206
+msgid "Awarded at"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:297
+#: includes/privacy/class-zeko-rewards-privacy.php:198
+msgid "Badge"
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:202
+msgid "Badge ID"
+msgstr ""
+
+#: zeko-rewards.php:436
+msgid "Badge unlocked"
+msgstr ""
+
+#. translators: %s: badge name
+#: includes/class-zeko-rewards-engine.php:527
+#: includes/class-zeko-rewards-engine.php:541
+#, php-format
+msgid "Badge unlocked: %s"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:292
+#: includes/class-zeko-rewards-ecosystem.php:134
+#: includes/class-zeko-rewards-ecosystem.php:318
+#: includes/class-zeko-rewards-ecosystem.php:394 templates/badges.php:25
+#: templates/catalog.php:24 templates/dashboard.php:52 templates/history.php:42
+#: templates/leaderboard.php:33
+msgid "Badges"
+msgstr ""
+
+#: templates/dashboard.php:74
+msgid "Badges earned"
+msgstr ""
+
+#: zeko-rewards.php:382
+msgid "Became a verified mentor"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:225
+msgid "Bonus every (days)"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:299
+msgid "Bonus points"
+msgstr ""
+
+#: zeko-rewards.php:328
+msgid "Boosted a job"
+msgstr ""
+
+#: zeko-rewards.php:497
+msgid "Bronze"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:556
+msgid "Cancel & refund"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:509
+msgid "Cancelled"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:59
+#: includes/class-zeko-rewards-ecosystem.php:126
+#: includes/class-zeko-rewards-ecosystem.php:309
+#: includes/class-zeko-rewards-ecosystem.php:406 templates/catalog.php:22
+msgid "Catalog"
+msgstr ""
+
+#: zeko-rewards.php:418
+msgid "Chatted with the AI assistant"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:548
+msgid "Complete"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:508
+msgid "Completed"
+msgstr ""
+
+#: zeko-rewards.php:364
+msgid "Completed a course"
+msgstr ""
+
+#: includes/class-zeko-rewards.php:243
+msgid "Copied!"
+msgstr ""
+
+#: templates/dashboard.php:134
+msgid "Copy link"
+msgstr ""
+
+#: templates/history.php:22 templates/leaderboard.php:19
+msgid "Core"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:433
+msgid "Cost"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:839
+msgid "Could not cancel request."
+msgstr ""
+
+#: includes/class-zeko-rewards-engine.php:700
+msgid "Could not record the redemption."
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:168
+#: includes/privacy/class-zeko-rewards-privacy.php:256
+#: includes/privacy/class-zeko-rewards-privacy.php:302
+#: includes/privacy/class-zeko-rewards-privacy.php:348
+msgid "Created at"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:298
+msgid "Criteria"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:427
+msgid "Current catalog"
+msgstr ""
+
+#: templates/dashboard.php:60
+msgid "Current tier"
+msgstr ""
+
+#: zeko-rewards.php:443
+msgid "Daily streak bonus"
+msgstr ""
+
+#: includes/class-zeko-rewards-ecosystem.php:291 templates/badges.php:23
+#: templates/catalog.php:21 templates/dashboard.php:50 templates/history.php:40
+#: templates/leaderboard.php:31
+msgid "Dashboard"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:629 templates/history.php:75
+msgid "Date"
+msgstr ""
+
+#. translators: %d: streak day number
+#: includes/class-zeko-rewards-engine.php:881
+#, php-format
+msgid "Day %d streak bonus"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:469
+msgid "Delete"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:385
+msgid "Description"
+msgstr ""
+
+#: zeko-rewards.php:513
+msgid "Diamond"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:337
+msgid "Download the top 1,000 users by lifetime points as a CSV file."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:463
+msgid "Edit"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:368
+msgid "Edit reward"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:172
+msgid "Enable redemption"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:215
+msgid "Enable streaks"
+msgstr ""
+
+#: zeko-rewards.php:358
+msgid "Enrolled in a course"
+msgstr ""
+
+#. translators: %1$d points, %2$s currency symbol/amount.
+#: templates/dashboard.php:90
+#, php-format
+msgid "Exchange %1$d points for $1 of wallet credit. Wallet balance: %2$s"
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:164
+msgid "Expires at"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:342
+msgid "Export leaderboard CSV"
+msgstr ""
+
+#: templates/history.php:63 templates/leaderboard.php:44
+msgid "Filter"
+msgstr ""
+
+#: templates/leaderboard.php:36
+msgid "Filter by module"
+msgstr ""
+
+#: zeko-rewards.php:505
+msgid "Gold"
+msgstr ""
+
+#: zeko-rewards.php:310
+msgid "Got a dating match"
+msgstr ""
+
+#: zeko-rewards.php:412
+msgid "Had an answer accepted"
+msgstr ""
+
+#: templates/dashboard.php:70
+msgid "Highest tier reached"
+msgstr ""
+
+#: templates/history.php:43
+msgid "History"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:191
+msgid "How many points equal one dollar of wallet credit."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:406
+msgid "Image URL"
+msgstr ""
+
+#: templates/catalog.php:53
+msgid "In stock"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:458
+msgid "Inactive"
+msgstr ""
+
+#: includes/class-zeko-rewards-pay.php:57
+msgid "Invalid redemption."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:843
+msgid "Invalid request."
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:286
+msgid "Item ID"
+msgstr ""
+
+#: templates/history.php:24 templates/leaderboard.php:21
+msgid "Jobs"
+msgstr ""
+
+#: zeko-rewards.php:370
+msgid "Joined a mentorship program"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:267
+msgid "Label"
+msgstr ""
+
+#: includes/class-zeko-rewards-ecosystem.php:130
+#: includes/class-zeko-rewards-ecosystem.php:300
+#: includes/class-zeko-rewards-ecosystem.php:405 templates/badges.php:24
+#: templates/catalog.php:23 templates/dashboard.php:51 templates/history.php:41
+#: templates/leaderboard.php:32
+msgid "Leaderboard"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:335
+msgid "Leaderboard export"
+msgstr ""
+
+#: templates/history.php:25 templates/leaderboard.php:22
+msgid "Learn"
+msgstr ""
+
+#: zeko-rewards.php:388
+msgid "Left a session review"
+msgstr ""
+
+#: includes/class-zeko-rewards-ecosystem.php:392
+msgid "Lifetime points"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:269
+msgid "Limit"
+msgstr ""
+
+#: templates/badges.php:68
+msgid "Locked"
+msgstr ""
+
+#: templates/login.php:15
+msgid "Log in"
+msgstr ""
+
+#: templates/catalog.php:68
+msgid "Log in to request rewards."
+msgstr ""
+
+#: templates/login.php:13
+msgid "Log in to view your rewards."
+msgstr ""
+
+#: templates/history.php:32
+msgid "Login"
+msgstr ""
+
+#: templates/history.php:23 templates/leaderboard.php:20
+msgid "Love"
+msgstr ""
+
+#: templates/history.php:34
+msgid "Manual adjust"
+msgstr ""
+
+#: zeko-rewards.php:464
+msgid "Manual adjustment"
+msgstr ""
+
+#: includes/class-zeko-rewards-engine.php:1119
+msgid "Manual award"
+msgstr ""
+
+#: includes/class-zeko-rewards-engine.php:1119
+msgid "Manual deduction"
+msgstr ""
+
+#: templates/dashboard.php:173
+msgid "Mark all read"
+msgstr ""
+
+#: zeko-rewards.php:376
+msgid "Matched with a mentor"
+msgstr ""
+
+#: templates/history.php:26 templates/leaderboard.php:23
+msgid "Mentor"
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:336
+msgid "Message"
+msgstr ""
+
+#: zeko-rewards.php:352
+msgid "Milestone approved"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:199
+msgid "Minimum points a user may redeem in one transaction."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:195
+msgid "Minimum redemption"
+msgstr ""
+
+#. translators: %d: minimum points required
+#: includes/class-zeko-rewards-engine.php:647
+#, php-format
+msgid "Minimum redemption is %d points."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:253
+msgid "Minimum streak length before the multiplier applies."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:266
+#: includes/privacy/class-zeko-rewards-privacy.php:148 templates/history.php:49
+#: templates/history.php:77
+msgid "Module"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:249
+msgid "Multiplier needs (days)"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:245
+msgid ""
+"Multiply all earned points (e.g. 2 = double) while the streak is active. Set "
+"0 or 1 to disable."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:378
+#: includes/class-zeko-rewards-admin.php:432
+msgid "Name"
+msgstr ""
+
+#: templates/history.php:113
+msgid "Next"
+msgstr ""
+
+#: templates/dashboard.php:157
+msgid "No activity yet. Explore Zeko to start earning points."
+msgstr ""
+
+#: templates/badges.php:74
+msgid "No badges configured yet."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:328
+msgid "No badges seeded yet."
+msgstr ""
+
+#: templates/history.php:103
+msgid "No events found."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:646
+msgid "No manual adjustments recorded yet."
+msgstr ""
+
+#: templates/dashboard.php:176
+msgid "No notifications."
+msgstr ""
+
+#: templates/leaderboard.php:76
+msgid "No points awarded yet — be the first!"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:567
+msgid "No redemption requests found."
+msgstr ""
+
+#: templates/dashboard.php:193
+msgid "No redemptions yet."
+msgstr ""
+
+#: templates/catalog.php:92
+msgid "No reward requests yet."
+msgstr ""
+
+#: templates/catalog.php:74
+msgid "No rewards available yet — check back soon."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:477
+msgid "No rewards yet. Add your first reward above."
+msgstr ""
+
+#: includes/class-zeko-rewards-engine.php:677
+msgid "Not enough points for a redeemable amount."
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:156 templates/history.php:79
+msgid "Note"
+msgstr ""
+
+#: templates/dashboard.php:162
+msgid "Notifications"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:402
+msgid "Number available. Use -1 for unlimited."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:286
+msgid "Once"
+msgstr ""
+
+#: includes/class-zeko-rewards-engine.php:1047
+msgid "Only pending requests can be cancelled."
+msgstr ""
+
+#: includes/class-zeko-rewards-ecosystem.php:404
+msgid "Open Rewards dashboard"
+msgstr ""
+
+#. translators: 1: current page number. 2: total number of pages
+#: templates/history.php:111
+#, php-format
+msgid "Page %1$d of %2$d"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:507
+msgid "Pending"
+msgstr ""
+
+#: zeko-rewards.php:340
+msgid "Placed a freelance bid"
+msgstr ""
+
+#: zeko-rewards.php:394
+msgid "Placed an order"
+msgstr ""
+
+#: zeko-rewards.php:509
+msgid "Platinum"
+msgstr ""
+
+#: includes/class-zeko-rewards-ajax.php:59
+#: includes/class-zeko-rewards-ajax.php:87
+#: includes/class-zeko-rewards-ajax.php:114
+#: includes/class-zeko-rewards-ajax.php:133
+#: includes/class-zeko-rewards-ajax.php:162
+#: includes/class-zeko-rewards-engine.php:627
+#: includes/class-zeko-rewards-engine.php:924
+msgid "Please log in."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:268
+#: includes/class-zeko-rewards-admin.php:526
+#: includes/class-zeko-rewards-admin.php:602
+#: includes/class-zeko-rewards-admin.php:627
+#: includes/privacy/class-zeko-rewards-privacy.php:140
+#: includes/privacy/class-zeko-rewards-privacy.php:236
+#: includes/privacy/class-zeko-rewards-privacy.php:290 templates/history.php:78
+msgid "Points"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:840
+msgid "Points adjusted."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:237
+msgid "Points awarded at each streak milestone. Set 0 to disable the bonus."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:391
+msgid "Points cost"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:203
+msgid "Points expire after (days)"
+msgstr ""
+
+#: templates/history.php:46
+msgid "Points ledger"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:207
+msgid ""
+"Points older than this many days stop counting toward balance and tier. Set "
+"0 to never expire."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:187
+msgid "Points per $1"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:258
+msgid "Points per activity"
+msgstr ""
+
+#: includes/class-zeko-rewards-engine.php:747
+#: includes/class-zeko-rewards-pay.php:96
+msgid "Points redeemed to your wallet."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:605
+msgid "Positive to award, negative to deduct."
+msgstr ""
+
+#: zeko-rewards.php:334
+msgid "Posted a freelance project"
+msgstr ""
+
+#: zeko-rewards.php:322
+msgid "Posted a job"
+msgstr ""
+
+#: templates/history.php:109
+msgid "Previous"
+msgstr ""
+
+#: templates/history.php:33
+msgid "Profile update"
+msgstr ""
+
+#: includes/class-zeko-rewards-ecosystem.php:395
+msgid "Rank"
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:244
+msgid "Rate"
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:344
+msgid "Read"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:609
+#: includes/class-zeko-rewards-admin.php:628
+msgid "Reason"
+msgstr ""
+
+#: templates/dashboard.php:143
+msgid "Recent activity"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:621
+msgid "Recent adjustments"
+msgstr ""
+
+#: templates/dashboard.php:106 templates/history.php:35
+msgid "Redeem"
+msgstr ""
+
+#: templates/dashboard.php:84
+msgid "Redeem points"
+msgstr ""
+
+#. translators: 1: number of points. 2: reward label or amount
+#: includes/class-zeko-rewards-engine.php:739
+#: includes/class-zeko-rewards-engine.php:1012
+#, php-format
+msgid "Redeemed %1$d points for %2$s"
+msgstr ""
+
+#. translators: 1: number of points. 2: wallet credit amount
+#: includes/class-zeko-rewards-engine.php:692
+#, php-format
+msgid "Redeemed %1$d points for %2$s wallet credit"
+msgstr ""
+
+#. translators: 1: reward name. 2: number of points
+#: includes/class-zeko-rewards-engine.php:971
+#, php-format
+msgid "Redeemed %1$s (%2$d points)"
+msgstr ""
+
+#. translators: %s: redeemed amount
+#: templates/dashboard.php:186
+#, php-format
+msgid "Redeemed for %s"
+msgstr ""
+
+#: includes/class-zeko-rewards.php:242
+msgid "Redeeming…"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:169
+msgid "Redemption & expiration"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:67
+#: includes/class-zeko-rewards-admin.php:500
+msgid "Redemption Requests"
+msgstr ""
+
+#: includes/class-zeko-rewards-pay.php:96
+msgid "Redemption failed."
+msgstr ""
+
+#: templates/dashboard.php:179
+msgid "Redemption history"
+msgstr ""
+
+#: includes/class-zeko-rewards-engine.php:660
+msgid "Redemption is busy. Please try again."
+msgstr ""
+
+#: includes/class-zeko-rewards-engine.php:635
+msgid "Redemption is disabled."
+msgstr ""
+
+#: includes/class-zeko-rewards-engine.php:1041
+msgid "Redemption request not found."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:68
+msgid "Redemptions"
+msgstr ""
+
+#: templates/dashboard.php:119
+msgid "Refer a friend"
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:252
+#: includes/privacy/class-zeko-rewards-privacy.php:340
+msgid "Reference"
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:152
+msgid "Reference type"
+msgstr ""
+
+#: templates/dashboard.php:131
+msgid "Referral link"
+msgstr ""
+
+#: zeko-rewards.php:424
+msgid "Referral signup"
+msgstr ""
+
+#: zeko-rewards.php:430
+msgid "Referred by a friend"
+msgstr ""
+
+#. translators: 1: reward name. 2: number of points
+#: includes/class-zeko-rewards-engine.php:1067
+#, php-format
+msgid "Refund: %1$s (%2$d points)"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:286
+msgid "Repeats"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:838
+#: includes/class-zeko-rewards-engine.php:1094
+msgid "Request cancelled and points refunded."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:837
+msgid "Request marked complete."
+msgstr ""
+
+#: templates/catalog.php:63
+msgid "Request reward"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:527
+msgid "Requested"
+msgstr ""
+
+#: includes/class-zeko-rewards-engine.php:714
+msgid "Restored points after a failed wallet redemption"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:525
+msgid "Reward"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:58
+#: includes/class-zeko-rewards-admin.php:364
+msgid "Reward Catalog"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:834
+msgid "Reward added."
+msgstr ""
+
+#: zeko-rewards.php:450
+msgid "Reward catalog redemption"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:836
+msgid "Reward deleted."
+msgstr ""
+
+#: zeko-rewards.php:457
+msgid "Reward redemption refund"
+msgstr ""
+
+#: includes/class-zeko-rewards-engine.php:1020
+msgid "Reward requested! We will contact you to arrange delivery."
+msgstr ""
+
+#. translators: %s: reward name
+#: includes/class-zeko-rewards-engine.php:1004
+#, php-format
+msgid "Reward requested: %s. We will contact you to arrange delivery."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:835
+msgid "Reward updated."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:48
+#: includes/class-zeko-rewards-ecosystem.php:74
+#: includes/class-zeko-rewards-ecosystem.php:117
+#: includes/class-zeko-rewards-ecosystem.php:122
+#: includes/class-zeko-rewards-ecosystem.php:193
+#: includes/class-zeko-rewards-ecosystem.php:256
+#: includes/class-zeko-rewards-ecosystem.php:258
+#: includes/class-zeko-rewards-ecosystem.php:282
+#: includes/class-zeko-rewards-ecosystem.php:368 zeko-rewards.php:183
+msgid "Rewards"
+msgstr ""
+
+#: zeko-rewards.php:191
+msgid "Rewards Badges"
+msgstr ""
+
+#: zeko-rewards.php:195
+msgid "Rewards Catalog"
+msgstr ""
+
+#: zeko-rewards.php:187
+msgid "Rewards Leaderboard"
+msgstr ""
+
+#: templates/badges.php:22 templates/catalog.php:20 templates/dashboard.php:49
+#: templates/history.php:39 templates/leaderboard.php:30
+msgid "Rewards pages"
+msgstr ""
+
+#: zeko-rewards.php:316
+msgid "Scheduled a date"
+msgstr ""
+
+#: templates/dashboard.php:121
+msgid ""
+"Share your code: you earn points when a friend signs up, and they get a "
+"bonus too."
+msgstr ""
+
+#: templates/history.php:27 templates/leaderboard.php:24
+msgid "Shop"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:613
+msgid "Shown to the user and recorded in the audit ledger."
+msgstr ""
+
+#: zeko-rewards.php:501
+msgid "Silver"
+msgstr ""
+
+#: includes/class-zeko-rewards.php:244
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:160
+msgid "Source"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:435
+#: includes/class-zeko-rewards-admin.php:528
+#: includes/privacy/class-zeko-rewards-privacy.php:248
+#: includes/privacy/class-zeko-rewards-privacy.php:294
+msgid "Status"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:398
+#: includes/class-zeko-rewards-admin.php:434
+msgid "Stock"
+msgstr ""
+
+#. translators: %s: reward name
+#: includes/class-zeko-rewards-engine.php:988
+#, php-format
+msgid "Stock adjusted: %s sold out before your redemption completed."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:233
+msgid "Streak bonus points"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:241
+msgid "Streak multiplier"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:212
+msgid "Streaks & multipliers"
+msgstr ""
+
+#: includes/class-zeko-rewards-engine.php:932
+msgid "That reward is no longer available."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:181
+msgid ""
+"The Zeko Pay plugin is not active — redemptions will fail until it is "
+"enabled."
+msgstr ""
+
+#: includes/class-zeko-rewards-engine.php:958
+msgid "This reward is out of stock."
+msgstr ""
+
+#: includes/class-zeko-rewards-engine.php:994
+msgid "This reward sold out while you were redeeming."
+msgstr ""
+
+#: includes/class-zeko-rewards-ecosystem.php:393
+msgid "Tier"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:220
+msgid ""
+"Track consecutive days of earning activity (reset when a day is missed)."
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:332
+msgid "Type"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:450
+msgid "Unlimited"
+msgstr ""
+
+#: templates/badges.php:59
+msgid "Unlocked"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:424
+msgid "Update reward"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:524
+#: includes/class-zeko-rewards-admin.php:595
+#: includes/class-zeko-rewards-admin.php:626
+msgid "User"
+msgstr ""
+
+#. translators: %d: numeric user ID
+#: includes/class-zeko-rewards-rest.php:96 templates/leaderboard.php:59
+#, php-format
+msgid "User #%d"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:598
+msgid "User ID, email, username, or display name"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:841
+msgid "User not found."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:418
+msgid "Visible and redeemable by users."
+msgstr ""
+
+#: includes/class-zeko-rewards-pay.php:67
+msgid "Wallet could not be created."
+msgstr ""
+
+#: includes/class-zeko-rewards-pay.php:51
+msgid "Wallet system is not available."
+msgstr ""
+
+#: zeko-rewards.php:304
+msgid "Welcome to Zeko"
+msgstr ""
+
+#: zeko-rewards.php:346
+msgid "Won a freelance contract"
+msgstr ""
+
+#: includes/class-zeko-rewards-engine.php:669
+#: includes/class-zeko-rewards-engine.php:941
+msgid "You do not have enough points."
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:353
+#: includes/class-zeko-rewards-admin.php:488
+#: includes/class-zeko-rewards-admin.php:578
+#: includes/class-zeko-rewards-admin.php:754
+#: includes/class-zeko-rewards-admin.php:787
+msgid "You do not have permission to access this page."
+msgstr ""
+
+#. translators: 1: number of points. 2: action label
+#: includes/class-zeko-rewards-engine.php:458
+#, php-format
+msgid "You earned %1$d points: %2$s"
+msgstr ""
+
+#. translators: %s: tier label
+#: includes/class-zeko-rewards-engine.php:604
+#, php-format
+msgid "You reached the %s tier!"
+msgstr ""
+
+#. translators: 1: number of points. 2: wallet credit amount
+#: includes/class-zeko-rewards-engine.php:731
+#, php-format
+msgid "You redeemed %1$d points for %2$s wallet credit"
+msgstr ""
+
+#. translators: 1: number of points. 2: reward name
+#: includes/class-zeko-rewards-engine.php:1080
+#, php-format
+msgid "Your %1$d points for %2$s were refunded."
+msgstr ""
+
+#. translators: %d: numeric rank
+#: templates/leaderboard.php:49
+#, php-format
+msgid "Your rank: #%d"
+msgstr ""
+
+#: templates/catalog.php:77
+msgid "Your reward requests"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:47
+#: includes/class-zeko-rewards-admin.php:164
+#: includes/class-zeko-rewards-ecosystem.php:105
+msgid "Zeko Rewards"
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:49
+#: includes/privacy/class-zeko-rewards-privacy.php:62
+msgid "Zeko Rewards data"
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:194
+msgid "Zeko Rewards — Badges"
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:282
+msgid "Zeko Rewards — Catalog redemptions"
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:328
+msgid "Zeko Rewards — Notifications"
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:136
+msgid "Zeko Rewards — Point events"
+msgstr ""
+
+#: includes/privacy/class-zeko-rewards-privacy.php:232
+msgid "Zeko Rewards — Point redemptions"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:95
+msgid ""
+"Zeko Rewards: point redemption to a wallet requires the Zeko Pay plugin to "
+"be installed and active."
+msgstr ""
+
+#: includes/class-zeko-rewards-engine.php:1080
+msgid "a reward"
+msgstr ""
+
+#: includes/class-zeko-rewards-admin.php:612
+msgid "e.g. Compensation for event issue"
+msgstr ""
+
+#: templates/catalog.php:49
+msgid "pts"
+msgstr ""
+
