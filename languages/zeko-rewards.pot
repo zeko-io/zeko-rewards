@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: zeko-rewards 1.1.0\n"
 "Report-Msgid-Bugs-To: https://zeko.io\n"
-"POT-Creation-Date: 2026-09-25 01:13+00:00\n"
+"POT-Creation-Date: 2026-09-27 15:06+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -187,7 +187,7 @@ msgstr ""
 msgid "Amount"
 msgstr ""
 
-#: zeko-rewards.php:406
+#: zeko-rewards.php:411
 msgid "Answered a question"
 msgstr ""
 
@@ -195,7 +195,7 @@ msgstr ""
 msgid "Apply adjustment"
 msgstr ""
 
-#: zeko-rewards.php:400
+#: zeko-rewards.php:405
 msgid "Asked a question"
 msgstr ""
 
@@ -217,7 +217,7 @@ msgstr ""
 msgid "Badge ID"
 msgstr ""
 
-#: zeko-rewards.php:436
+#: zeko-rewards.php:441
 msgid "Badge unlocked"
 msgstr ""
 
@@ -241,7 +241,7 @@ msgstr ""
 msgid "Badges earned"
 msgstr ""
 
-#: zeko-rewards.php:382
+#: zeko-rewards.php:387
 msgid "Became a verified mentor"
 msgstr ""
 
@@ -253,11 +253,11 @@ msgstr ""
 msgid "Bonus points"
 msgstr ""
 
-#: zeko-rewards.php:328
+#: zeko-rewards.php:333
 msgid "Boosted a job"
 msgstr ""
 
-#: zeko-rewards.php:497
+#: zeko-rewards.php:502
 msgid "Bronze"
 msgstr ""
 
@@ -276,7 +276,7 @@ msgstr ""
 msgid "Catalog"
 msgstr ""
 
-#: zeko-rewards.php:418
+#: zeko-rewards.php:423
 msgid "Chatted with the AI assistant"
 msgstr ""
 
@@ -288,7 +288,7 @@ msgstr ""
 msgid "Completed"
 msgstr ""
 
-#: zeko-rewards.php:364
+#: zeko-rewards.php:369
 msgid "Completed a course"
 msgstr ""
 
@@ -335,7 +335,7 @@ msgstr ""
 msgid "Current tier"
 msgstr ""
 
-#: zeko-rewards.php:443
+#: zeko-rewards.php:448
 msgid "Daily streak bonus"
 msgstr ""
 
@@ -363,7 +363,7 @@ msgstr ""
 msgid "Description"
 msgstr ""
 
-#: zeko-rewards.php:513
+#: zeko-rewards.php:518
 msgid "Diamond"
 msgstr ""
 
@@ -387,7 +387,7 @@ msgstr ""
 msgid "Enable streaks"
 msgstr ""
 
-#: zeko-rewards.php:358
+#: zeko-rewards.php:363
 msgid "Enrolled in a course"
 msgstr ""
 
@@ -413,15 +413,15 @@ msgstr ""
 msgid "Filter by module"
 msgstr ""
 
-#: zeko-rewards.php:505
+#: zeko-rewards.php:510
 msgid "Gold"
 msgstr ""
 
-#: zeko-rewards.php:310
+#: zeko-rewards.php:315
 msgid "Got a dating match"
 msgstr ""
 
-#: zeko-rewards.php:412
+#: zeko-rewards.php:417
 msgid "Had an answer accepted"
 msgstr ""
 
@@ -465,7 +465,7 @@ msgstr ""
 msgid "Jobs"
 msgstr ""
 
-#: zeko-rewards.php:370
+#: zeko-rewards.php:375
 msgid "Joined a mentorship program"
 msgstr ""
 
@@ -489,7 +489,7 @@ msgstr ""
 msgid "Learn"
 msgstr ""
 
-#: zeko-rewards.php:388
+#: zeko-rewards.php:393
 msgid "Left a session review"
 msgstr ""
 
@@ -529,7 +529,7 @@ msgstr ""
 msgid "Manual adjust"
 msgstr ""
 
-#: zeko-rewards.php:464
+#: zeko-rewards.php:469
 msgid "Manual adjustment"
 msgstr ""
 
@@ -545,7 +545,7 @@ msgstr ""
 msgid "Mark all read"
 msgstr ""
 
-#: zeko-rewards.php:376
+#: zeko-rewards.php:381
 msgid "Matched with a mentor"
 msgstr ""
 
@@ -557,7 +557,7 @@ msgstr ""
 msgid "Message"
 msgstr ""
 
-#: zeko-rewards.php:352
+#: zeko-rewards.php:357
 msgid "Milestone approved"
 msgstr ""
 
@@ -690,15 +690,15 @@ msgstr ""
 msgid "Pending"
 msgstr ""
 
-#: zeko-rewards.php:340
+#: zeko-rewards.php:345
 msgid "Placed a freelance bid"
 msgstr ""
 
-#: zeko-rewards.php:394
+#: zeko-rewards.php:399
 msgid "Placed an order"
 msgstr ""
 
-#: zeko-rewards.php:509
+#: zeko-rewards.php:514
 msgid "Platinum"
 msgstr ""
 
@@ -765,11 +765,11 @@ msgstr ""
 msgid "Positive to award, negative to deduct."
 msgstr ""
 
-#: zeko-rewards.php:334
+#: zeko-rewards.php:339
 msgid "Posted a freelance project"
 msgstr ""
 
-#: zeko-rewards.php:322
+#: zeko-rewards.php:327
 msgid "Posted a job"
 msgstr ""
 
@@ -893,11 +893,11 @@ msgstr ""
 msgid "Referral link"
 msgstr ""
 
-#: zeko-rewards.php:424
+#: zeko-rewards.php:429
 msgid "Referral signup"
 msgstr ""
 
-#: zeko-rewards.php:430
+#: zeko-rewards.php:435
 msgid "Referred by a friend"
 msgstr ""
 
@@ -945,7 +945,7 @@ msgstr ""
 msgid "Reward added."
 msgstr ""
 
-#: zeko-rewards.php:450
+#: zeko-rewards.php:455
 msgid "Reward catalog redemption"
 msgstr ""
 
@@ -953,7 +953,7 @@ msgstr ""
 msgid "Reward deleted."
 msgstr ""
 
-#: zeko-rewards.php:457
+#: zeko-rewards.php:462
 msgid "Reward redemption refund"
 msgstr ""
 
@@ -979,19 +979,19 @@ msgstr ""
 #: includes/class-zeko-rewards-ecosystem.php:256
 #: includes/class-zeko-rewards-ecosystem.php:258
 #: includes/class-zeko-rewards-ecosystem.php:282
-#: includes/class-zeko-rewards-ecosystem.php:368 zeko-rewards.php:183
+#: includes/class-zeko-rewards-ecosystem.php:368 zeko-rewards.php:186
 msgid "Rewards"
 msgstr ""
 
-#: zeko-rewards.php:191
+#: zeko-rewards.php:194
 msgid "Rewards Badges"
 msgstr ""
 
-#: zeko-rewards.php:195
+#: zeko-rewards.php:198
 msgid "Rewards Catalog"
 msgstr ""
 
-#: zeko-rewards.php:187
+#: zeko-rewards.php:190
 msgid "Rewards Leaderboard"
 msgstr ""
 
@@ -1000,7 +1000,7 @@ msgstr ""
 msgid "Rewards pages"
 msgstr ""
 
-#: zeko-rewards.php:316
+#: zeko-rewards.php:321
 msgid "Scheduled a date"
 msgstr ""
 
@@ -1018,7 +1018,7 @@ msgstr ""
 msgid "Shown to the user and recorded in the audit ledger."
 msgstr ""
 
-#: zeko-rewards.php:501
+#: zeko-rewards.php:506
 msgid "Silver"
 msgstr ""
 
@@ -1135,11 +1135,11 @@ msgstr ""
 msgid "Wallet system is not available."
 msgstr ""
 
-#: zeko-rewards.php:304
+#: zeko-rewards.php:309
 msgid "Welcome to Zeko"
 msgstr ""
 
-#: zeko-rewards.php:346
+#: zeko-rewards.php:351
 msgid "Won a freelance contract"
 msgstr ""
 
